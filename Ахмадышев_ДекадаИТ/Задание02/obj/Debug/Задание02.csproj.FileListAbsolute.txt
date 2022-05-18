@@ -1,0 +1,10 @@
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\bin\Debug\Задание02.exe.config
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\bin\Debug\Задание02.exe
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\bin\Debug\Задание02.pdb
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\obj\Debug\Задание02.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\obj\Debug\Задание02.Properties.Resources.resources
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\obj\Debug\Задание02.csproj.GenerateResource.cache
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\obj\Debug\Задание02.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\obj\Debug\Задание02.exe
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\obj\Debug\Задание02.pdb
+C:\Users\rusla\source\repos\ДекадаИТ\Задание02\obj\Debug\Задание02.Form1.resources

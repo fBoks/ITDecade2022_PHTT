@@ -1,0 +1,7 @@
+C:\Users\rusla\source\repos\ДекадаИТ\Задание01\bin\Debug\Задание01.exe.config
+C:\Users\rusla\source\repos\ДекадаИТ\Задание01\bin\Debug\Задание01.exe
+C:\Users\rusla\source\repos\ДекадаИТ\Задание01\bin\Debug\Задание01.pdb
+C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Задание01.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Задание01.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Задание01.exe
+C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Задание01.pdb
