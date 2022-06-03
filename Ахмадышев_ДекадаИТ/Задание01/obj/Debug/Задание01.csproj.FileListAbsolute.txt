@@ -5,3 +5,10 @@ C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Зада
 C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Задание01.csproj.CoreCompileInputs.cache
 C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Задание01.exe
 C:\Users\rusla\source\repos\ДекадаИТ\Задание01\obj\Debug\Задание01.pdb
+C:\Users\rusla\Source\Repos\ITDecade2022_PHTT\Ахмадышев_ДекадаИТ\Задание01\bin\Debug\Задание01.exe.config
+C:\Users\rusla\Source\Repos\ITDecade2022_PHTT\Ахмадышев_ДекадаИТ\Задание01\bin\Debug\Задание01.exe
+C:\Users\rusla\Source\Repos\ITDecade2022_PHTT\Ахмадышев_ДекадаИТ\Задание01\bin\Debug\Задание01.pdb
+C:\Users\rusla\Source\Repos\ITDecade2022_PHTT\Ахмадышев_ДекадаИТ\Задание01\obj\Debug\Задание01.csproj.AssemblyReference.cache
+C:\Users\rusla\Source\Repos\ITDecade2022_PHTT\Ахмадышев_ДекадаИТ\Задание01\obj\Debug\Задание01.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Source\Repos\ITDecade2022_PHTT\Ахмадышев_ДекадаИТ\Задание01\obj\Debug\Задание01.exe
+C:\Users\rusla\Source\Repos\ITDecade2022_PHTT\Ахмадышев_ДекадаИТ\Задание01\obj\Debug\Задание01.pdb

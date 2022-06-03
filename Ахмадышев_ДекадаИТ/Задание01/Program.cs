@@ -8,8 +8,22 @@ namespace Задание01
     {
         static void Main(string[] args)
         {
-            string path1 = @"..\..\..\Данные\задача1.txt";
+            Console.Write("Укажите путь к файлу .txt: ");
+            string path1 = Console.ReadLine();
 
+            try
+            {
+                ReadSomeFile(path1);
+            }
+            catch
+            {
+                Console.WriteLine("Неверно указан путь");
+                Console.WriteLine("Пример: C:\\Folder\\example.txt");
+            }
+        }
+
+        private static void ReadSomeFile(string path1)
+        {
             string[] lines = File.ReadAllLines(path1).ToArray();
 
             int rows = lines.Length - 1;
